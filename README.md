@@ -1,6 +1,6 @@
 # Portfolio — Егор Бабушкин
 
-Портфолио UX/UI дизайнера: три кейса — NMS «ЦИСУСС», HandiFox Customer Portal и Street Style (веб-сервис для автоматического скрытия номеров на фото и видео).
+Портфолио UX/UI дизайнера: три кейса — NMS «ЦИСУСС», HandiFox Customer Portal и Street Style.
 
 🔗 **https://v-ch-co.github.io/portfolio/**
 
